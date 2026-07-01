@@ -186,4 +186,4 @@ This project directly addresses the Option 3 brief:
 
 ---
 
-*Built by [Your Name] — Catalist Media Agent Prototyping Intern Builder Challenge 2024*
+*Built by Lakmi Hathnapitiya— Catalist Media Agent Prototyping Intern Builder Challenge 2026*
